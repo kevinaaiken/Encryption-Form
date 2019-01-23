@@ -1,0 +1,10 @@
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\bin\Debug\Encryption Form.exe.config
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\bin\Debug\Encryption Form.exe
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\bin\Debug\Encryption Form.pdb
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\obj\Debug\Encryption Form.csprojAssemblyReference.cache
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\obj\Debug\Encryption_Form.Form1.resources
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\obj\Debug\Encryption_Form.Properties.Resources.resources
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\obj\Debug\Encryption Form.csproj.GenerateResource.cache
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\obj\Debug\Encryption Form.csproj.CoreCompileInputs.cache
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\obj\Debug\Encryption Form.exe
+C:\Users\CCA030\source\kaa\Encryption Form\Encryption Form\obj\Debug\Encryption Form.pdb
